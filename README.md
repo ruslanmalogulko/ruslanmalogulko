@@ -1,10 +1,10 @@
-<code>😍 JS/NodeJS developer</code>
+<code>😍 Fullstack web engineer (primarily NodeJS/Python)</code>
 <code>🔭 Coding mentor</code>
-<code>🎢 Engineering Team Lead</code>
-<code>📖 Coding articles writer</code>
-<code>🏗 Good software architecture enthusiast</code>
-<code>📈 Certificate in Project Management</code>
-<code>👨‍💻 Currently working on self improvement</code>
+<code>🎢 Engineering Team Lead / Tech Lead experience</code>
+<code>📖 Coding topics writer (find me on Medium)</code>
+<code>🏗 Software architecture enthusiast</code>
+<code>📈 I gave a certificate in Project Management</code>
+<code>👨‍💻 Learner permanently</code>
 
 
 - <code>📫 How to reach me</code>: [Linkedin](https://www.linkedin.com/in/ruslan-malogulko-63a39059/), [Medium](https://medium.com/@ruslanmalogulko)
